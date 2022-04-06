@@ -11,8 +11,10 @@
 {{-- drop down select --}}
 <script src="{{url('backend/dist/script/jquery.js')}}"></script>
 <script src="{{url('backend/dist/script/jquery-3.5.1.js')}}"></script>
-<!-- Select2 -->
+{{-- <!-- Select2 -->
 <link rel="stylesheet" href="{{url('backend/plugins/select2/css/select2.min.css')}}">
-<link rel="stylesheet" href="{{url('backend/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css')}}">
+<link rel="stylesheet" href="{{url('backend/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css')}}"> --}}
 <!-- Jquery -->
+<link rel="stylesheet" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
+{{-- select2 --}}
 <link rel="stylesheet" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">

@@ -54,7 +54,7 @@
                         class="fa fa-print"></i>
                     Print Data</a>
                 <br><br>
-                <table class="table table-hover dataTable table-striped w-full" id="example1" data-plugin="dataTable">
+                <table class="table table-hover dataTable table-striped w-full" id="myTable" data-plugin="dataTable">
                     <thead>
                         <tr>
                             <th>No</th>

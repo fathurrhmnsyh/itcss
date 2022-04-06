@@ -36,7 +36,9 @@
         // });
         //DTTBSS
 
-        
+        $(document).ready( function () {
+        $('#myTable').DataTable();
+    } );
     });
 
 </script>

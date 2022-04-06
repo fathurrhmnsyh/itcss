@@ -173,7 +173,7 @@
                             </a>
                         </li>
                         <li class="nav-item has-treeview">
-                            <a href="/stok/transaksi_riwayat" class="nav-link {{request()->is('stok/transaksi_riwayat') ? 'active': ''}}">
+                            <a href="/stok/transaksi_riwayat_in" class="nav-link {{request()->is('stok/transaksi_riwayat') ? 'active': ''}}">
                                 <i class="far fa-circle nav-icon {{request()->is('stok/transaksi_riwayat') ? 'far fa-dot-circle': ''}}"></i>
                                 <p>
                                     Transaction History
